@@ -1,9 +1,6 @@
 
 
-## YoCoach V2 Change Log
-
-### Release Number: RV-2.4.0
-### Release Date: 2022-05-25
+## YoCoach - RV-2.4.0 (2022-05-25)
 
 
 Updates:
